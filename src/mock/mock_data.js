@@ -176,6 +176,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://icon.maodeyu.fun/favicon/www.52pojie.cn"
+        },
+        {
+          "id": "site-1752805405677",
+          "name": "少数派",
+          "url": "https://sspai.com/",
+          "description": "少数派-高效工作，品质生活",
+          "icon": "https://icon.maodeyu.fun/favicon/sspai.com"
         }
       ]
     },
