@@ -11,7 +11,7 @@ export const mockData = {
           "name": "BeJson",
           "url": "https://www.bejson.com/",
           "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.bejson.com"
         },
         {
           "id": "linux-do",
@@ -46,14 +46,14 @@ export const mockData = {
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
-          "icon": "https://icon.maodeyu.fun/favicon/www.cloudflare.com"
+          "icon": "https://www.faviconextractor.com/favicon/www.cloudflare.com"
         },
         {
           "id": "site-1761807558838",
           "name": "IDC",
           "url": "https://idcflare.com/",
           "description": "域名、主机等信息集散地",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
         }
       ]
     },
@@ -161,42 +161,42 @@ export const mockData = {
           "name": "Stack Overflow",
           "url": "https://stackoverflow.com",
           "description": "程序员问答社区",
-          "icon": "https://icon.maodeyu.fun/favicon/stackoverflow.com"
+          "icon": "https://www.faviconextractor.com/favicon/stackoverflow.com"
         },
         {
           "id": "linuxdo",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
-          "icon": "https://icon.maodeyu.fun/favicon/linux.do"
+          "icon": "https://www.faviconextractor.com/favicon/linux.do"
         },
         {
           "id": "nodeseek",
           "name": "NodeSeek",
           "url": "https://www.nodeseek.com",
           "description": "极客技术社区",
-          "icon": "https://icon.maodeyu.fun/favicon/www.nodeseek.com"
+          "icon": "https://www.faviconextractor.com/favicon/www.nodeseek.com"
         },
         {
           "id": "v2ex",
           "name": "V2EX",
           "url": "https://www.v2ex.com",
           "description": "创意工作者社区",
-          "icon": "https://icon.maodeyu.fun/favicon/www.v2ex.com"
+          "icon": "https://www.faviconextractor.com/favicon/www.v2ex.com"
         },
         {
           "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
-          "icon": "https://icon.maodeyu.fun/favicon/www.52pojie.cn"
+          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
         },
         {
           "id": "site-1752805405677",
           "name": "少数派",
           "url": "https://sspai.com/",
           "description": "少数派-高效工作，品质生活",
-          "icon": "https://icon.maodeyu.fun/favicon/sspai.com"
+          "icon": "https://www.faviconextractor.com/favicon/sspai.com"
         }
       ]
     },
