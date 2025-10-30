@@ -7,6 +7,18 @@
 [![Vite](https://img.shields.io/badge/Vite-5.4.10-646CFF?logo=vite)](https://vitejs.dev/)
 [![Cloudflare](https://img.shields.io/badge/Deploy-Cloudflare%20Pages-F38020?logo=cloudflare)](https://pages.cloudflare.com/)
 
+## 🛠️ 更新记录 
+- 2025-07-15 完善logo自动获取流程。
+- 2025-07-16 修复admin 管理后台编辑相关问题，优化编辑逻辑。
+- 2025-07-17 增加网站名称修改，站点logo,修改调整手机端排版。
+- 2025-07-22 增加站点拖拽排序，优化icon获取。
+- 2025-07-30 修复item展示问题，增加环境变量VITE_OPEN_LOCK，配置首页也需验证密码。
+- 2025-08-11 增加夜间模式，增加默认搜索引擎设置功能。
+
+## 效果预览
+示例站点: [猫猫导航](https://nav.maodeyu.fun)
+![](preview.png)
+
 ## ✨ 特性
 
 - 🎨 **现代化设计** - 简洁美观的界面，支持响应式布局
@@ -19,7 +31,7 @@
 
 
 ## 🚀 快速开始
-
+图文教程可访问[猫猫导航图文教程](https://blog.maodeyu.fun/2025/07/16/nav_mao/)
 ### 🚀 部署到 Cloudflare（推荐）
 
 **1. Fork 本项目**
