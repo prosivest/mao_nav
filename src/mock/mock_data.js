@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "https://icon.maodeyu.fun/favicon/www.cloudflare.com"
+        },
+        {
+          "id": "site-1761807558838",
+          "name": "IDC",
+          "url": "https://idcflare.com/",
+          "description": "域名、主机等信息集散地",
+          "icon": ""
         }
       ]
     },
