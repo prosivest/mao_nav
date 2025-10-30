@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "https://www.faviconextractor.com/favicon/www.bejson.com"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
@@ -35,13 +28,6 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "https://icon.maodeyu.fun/favicon/www.bejson.com"
-        },
-        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
@@ -54,6 +40,13 @@ export const mockData = {
           "url": "https://idcflare.com/",
           "description": "域名、主机等信息集散地",
           "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
+        },
+        {
+          "id": "site-1761810947942",
+          "name": "BEJSON",
+          "url": "https://www.bejson.com/",
+          "description": "工具",
+          "icon": "https://www.faviconextractor.com/favicon/www.bejson.com"
         }
       ]
     },
