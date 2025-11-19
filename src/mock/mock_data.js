@@ -486,7 +486,29 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
-    }
+    },
+    {
+      "id": "vedio",
+      "name": "视频音乐",
+      "icon": "📽",
+      "order": 11,
+      "sites": [
+        {
+          "id": "libvio",
+          "name": "libvio",
+          "url": "https://www.libvio.cc",
+          "description": "在线视频网站",
+          "icon": "/statics/img/favicon.ico"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
+          "icon": "/sitelogo/www.youtube.com.ico"
+        }
+      ]
+    },
   ],
   "title": "鱼鱼导航"
 }
