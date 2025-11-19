@@ -412,6 +412,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "favicon",
+          "name": "Favicon.im",
+          "url": "https://favicon.im/zh",
+          "description": "下载网站图标",
+          "icon": "/sitelogo/favicon.im.ico"
         }
       ]
     },
