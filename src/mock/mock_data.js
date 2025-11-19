@@ -503,16 +503,17 @@ export const mockData = {
         {
           "id": "meijumi",
           "name": "美剧迷",
-          "url": "https://www.meijumi.net/",
+          "url": "https://www.meijumi.net",
           "description": "美剧下载网站",
           "icon": "https://www.meijumi.net/wp-content/themes/2016091704541775/images/favicon.ico"
         },
         {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
+          "id": "ttmjc",
+          "name": "天天美剧",
+          "url": "https://www.ttmjc.com",
+          "description": "美剧在线平台",
+          //"icon": "https://www.ttmjc.com/upload/mxprocms/20250908-1/8c52ca7a7343277818a54e30725de885.png"
+          "icon": "https://favicon.im/ttmjc.com"
         }
       ]
     },
