@@ -416,7 +416,7 @@ export const mockData = {
         {
           "id": "favicon",
           "name": "Favicon.im",
-          "url": "https://favicon.im/zh",
+          "url": "https://favicon.im",
           "description": "下载网站图标",
           "icon": "/sitelogo/favicon.im.ico"
         }
