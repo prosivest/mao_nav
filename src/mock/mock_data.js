@@ -498,7 +498,14 @@ export const mockData = {
           "name": "libvio",
           "url": "https://www.libvio.cc",
           "description": "在线视频网站",
-          "icon": "/statics/img/favicon.ico"
+          "icon": "https://www.libvio.cc/statics/img/favicon.ico"
+        },
+        {
+          "id": "meijumi",
+          "name": "美剧迷",
+          "url": "https://www.meijumi.net/",
+          "description": "美剧下载网站",
+          "icon": "https://www.meijumi.net/wp-content/themes/2016091704541775/images/favicon.ico"
         },
         {
           "id": "youtube",
